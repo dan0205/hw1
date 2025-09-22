@@ -1,0 +1,5 @@
+alias mywc='wc -m'
+echo hello world | grep hello | mywc
+echo abcdef | grep bc | mywc
+ls -a | grep a | mywc
+quit

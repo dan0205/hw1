@@ -1,0 +1,10 @@
+alias t='echo first'
+t one
+alias t='echo second'
+t two
+alias tt='echo third'
+tt
+alias t='ls -a'
+tt
+t
+quit

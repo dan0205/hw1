@@ -1,0 +1,9 @@
+cd d1
+pwd
+cd ../d2
+pwd
+cd ../d1
+pwd
+cd ../d1/../
+pwd
+quit

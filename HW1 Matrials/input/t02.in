@@ -1,0 +1,4 @@
+echo abc | grep b
+echo red blue | wc -w
+echo ok | wc -c
+quit

@@ -1,0 +1,6 @@
+alias mycat='cat t2.txt'
+mycat | grep bin | wc -l
+alias alp='echo abcdef'
+alp | grep cd | wc -l
+mycat | grep cd
+quit

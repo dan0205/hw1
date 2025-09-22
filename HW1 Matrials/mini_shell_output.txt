@@ -1,0 +1,12 @@
+/home/yidj0205/my_minishell/HW1 Matrials
+.
+..
+PA1 introduction.pdf
+PA1 spec.pdf
+input
+mini_shell_output.txt
+minishell_skt
+minishell_skt.c
+test
+test.c
+hello

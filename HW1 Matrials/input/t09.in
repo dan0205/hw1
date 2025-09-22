@@ -1,0 +1,6 @@
+alias mygr='grep w'
+ls -al | mygr
+cat t1.txt | mygr -A 1 | wc -l
+alias mywcm='wc -m'
+cat t1.txt | mywcm -l
+quit

@@ -1,0 +1,5 @@
+sleep 1
+echo after
+sleep 1
+echo end
+quit

@@ -1,0 +1,6 @@
+cat t2.txt | sort
+alias tool='sort'
+cat t2.txt | tool
+alias tool='head'
+cat t2.txt | tool -n 1
+quit

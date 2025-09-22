@@ -1,0 +1,7 @@
+alias myls='ls -a'
+myls -l
+alias mycat='cat'
+mycat -n t1.txt
+alias mywc='wc -l'
+cat t1.txt | mywc -m
+quit

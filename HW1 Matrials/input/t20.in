@@ -1,0 +1,9 @@
+cat t2.txt | sort
+alias tool='sort'
+cat t2.txt | tool -r | wc -l
+alias mywc='wc -l'
+cat t2.txt | sort -r | mywc -m
+alias tool='head'
+alias tool='sort -r'
+cat t2.txt | tool | wc -l
+quit

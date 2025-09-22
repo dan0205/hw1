@@ -1,0 +1,7 @@
+alias mygr='grep the'
+cat t1.txt | mygr
+cat t1.txt | mygr | wc -l
+alias mywc='wc -c'
+cat t1.txt | mywc
+cat t2.txt | wc -l | mywc
+quit

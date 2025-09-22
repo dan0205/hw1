@@ -1,0 +1,7 @@
+cd ../
+pwd
+cd /
+pwd
+cd /no_such_dir
+pwd
+quit

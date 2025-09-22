@@ -1,0 +1,4 @@
+ls -a | grep bin | wc -l
+echo abcdef | grep cd | wc -l
+echo end | wc -m
+quit

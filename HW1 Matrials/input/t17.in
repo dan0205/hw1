@@ -1,0 +1,6 @@
+alias mygrep='grep a'
+cat t2.txt | sort | mygrep -i
+alias mywcl='wc -l'
+cat t2.txt | sort | mywcl
+cat t2.txt | sort | mywcl -m
+quit

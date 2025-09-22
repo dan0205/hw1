@@ -1,0 +1,6 @@
+alias ll='ls -al'
+ll
+alias mycat='cat -n'
+mycat t2.txt
+ll
+quit

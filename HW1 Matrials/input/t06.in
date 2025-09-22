@@ -1,0 +1,5 @@
+alias la='ls -a'
+la | wc -l
+alias say='echo'
+say a b c | wc -w
+quit
